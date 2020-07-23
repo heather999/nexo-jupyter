@@ -1,0 +1,13 @@
+cmake
+corner
+graphviz
+gsl
+holoviews
+pyarrow
+pybind11
+pytest
+root
+root_numpy
+tabulate
+tensorflow
+yaml
